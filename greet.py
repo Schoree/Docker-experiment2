@@ -1,0 +1,1 @@
+print('Hello world\nThis is Docker promopte experiment 2\n')
